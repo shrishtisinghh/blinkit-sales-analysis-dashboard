@@ -42,7 +42,8 @@ This dashboard enables stakeholders to:
 - Support data-driven business decisions
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
+<img width="1057" height="553" alt="image" src="https://github.com/user-attachments/assets/4bfd2f43-22c0-4dfb-b647-1756053aa589" />
+
 
 ## 👤 Author
 **Shrishti Singh**  
